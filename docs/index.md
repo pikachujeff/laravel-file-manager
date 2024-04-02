@@ -14,5 +14,5 @@
  * ext-zip - for zip and unzip functions
  * Laravel 9 or higher
  * GD Library or Imagick for [intervention/image](https://github.com/Intervention/image)
- * requires [intervention/image](https://github.com/Intervention/image) and [intervention/imagecache](https://github.com/Intervention/imagecache)
+ * requires [intervention/image](https://github.com/Intervention/image)
  * Bootstrap 5 and Bootstrap Icons v1.8.0 and higher
